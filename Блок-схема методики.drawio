@@ -1,50 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T16:40:59.185Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="8j5aEFptToTEAxdoW9k5" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T19:47:32.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="zyWc-g4QU_-6pD8_WEBE" version="24.4.13" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
-    <mxGraphModel dx="1155" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1386" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-3" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Исходные данные:&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;_JJkoA6HLlipmjmsha6d&quot;&gt;1. Длина и вылет стекла по фасаду&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;_JJkoA6HLlipmjmsha6d&quot;&gt;2. Местоположение&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;_JJkoA6HLlipmjmsha6d&quot;&gt;3. Тип фасада&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="170" width="190" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8c-bmwtY3mxcumIEPfAq-3">
+        <mxCell id="lxMVfw37ABalmOMYEqL4-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-15" target="lxMVfw37ABalmOMYEqL4-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="360" as="sourcePoint" />
-            <mxPoint x="400" y="340" as="targetPoint" />
+            <mxPoint x="635" y="370" as="sourcePoint" />
+            <mxPoint x="680" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-8" value="1. Этап Классификация параметров козырька" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="lxMVfw37ABalmOMYEqL4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-14" target="lxMVfw37ABalmOMYEqL4-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-38" value="1 этап. Классификация параметров козырька" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="440" width="280" height="120" as="geometry" />
+        <mxCell id="lxMVfw37ABalmOMYEqL4-14" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;Получение&amp;nbsp;&lt;a style=&quot;font-size: 14px;&quot; name=&quot;_Hlk167086540&quot;&gt;технического задания на установку&lt;br style=&quot;font-size: 14px;&quot;&gt;стекольных козырьков&lt;/a&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="170" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-39" value="Стекло-триплекс (тип и толщина, расположение отверстий для крепления)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8c-bmwtY3mxcumIEPfAq-38">
-          <mxGeometry y="26" width="280" height="44" as="geometry" />
+        <mxCell id="lxMVfw37ABalmOMYEqL4-15" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Получение &lt;a name=&quot;_Hlk167086540&quot; style=&quot;font-size: 14px;&quot;&gt;технического задания на установку&lt;br style=&quot;font-size: 14px;&quot;&gt;стекольных козырьков&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="368.75" y="50" width="202.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-41" value="Фурнитура крепления (количество вант и стеклодержателей, креплений для них&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="8c-bmwtY3mxcumIEPfAq-38">
-          <mxGeometry y="70" width="280" height="50" as="geometry" />
+        <mxCell id="lxMVfw37ABalmOMYEqL4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-17" target="lxMVfw37ABalmOMYEqL4-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-43" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8c-bmwtY3mxcumIEPfAq-38" target="8c-bmwtY3mxcumIEPfAq-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="365" y="460" as="sourcePoint" />
-            <mxPoint x="415" y="410" as="targetPoint" />
+        <mxCell id="lxMVfw37ABalmOMYEqL4-17" value="1. Длина (B) и вынос стекла (A) от фасада&lt;div style=&quot;font-size: 14px;&quot;&gt;2.&amp;nbsp;&lt;span style=&quot;text-indent: -18pt; background-color: initial; font-size: 14px;&quot;&gt;Высота крепления козырьков&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;text-indent: -18pt; background-color: initial; font-size: 14px;&quot;&gt;3. Тип ограждающей конструкции&lt;/span&gt;&lt;/div&gt;&lt;p style=&quot;margin-left: 72pt; text-indent: -18pt; font-size: 14px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;noLabel=0;fixDash=0;container=0;dropTarget=0;collapsible=0;treeFolding=0;treeMoving=0;enumerate=0;enumerateValue=1;comic=0;labelPadding=0;snapToPoint=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;spacingLeft=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="142.5" width="150" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-19" target="lxMVfw37ABalmOMYEqL4-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Классификация стекла триплекса для проектного решения&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-21" target="lxMVfw37ABalmOMYEqL4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-21" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;1. Выборка габаритов&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;2. Тип стекла (сырое,&amp;nbsp; закаленное)&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;3. Толщина триплекса&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;4. Стоимость триплекса в зависимости от конфигурации&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-left: 72pt; text-indent: -18pt; font-size: 14px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;noLabel=0;fixDash=0;container=0;dropTarget=0;collapsible=0;treeFolding=0;treeMoving=0;enumerate=0;enumerateValue=1;comic=0;labelPadding=0;snapToPoint=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="267.5" width="150" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-23" target="lxMVfw37ABalmOMYEqL4-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-23" value="&lt;b style=&quot;font-size: 13px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Выбор материала фурнитуры для крепления стеклянных козырьков&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="390" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-24" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-35" target="lxMVfw37ABalmOMYEqL4-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="200" as="targetPoint" />
+            <mxPoint x="520" y="620" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="580" y="390" />
+              <mxPoint x="560" y="360" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-45" value="Подбор конфигураций для стекольного козырька" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="130" width="320" height="20" as="geometry" />
+        <mxCell id="lxMVfw37ABalmOMYEqL4-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-26" target="lxMVfw37ABalmOMYEqL4-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.501;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8c-bmwtY3mxcumIEPfAq-41">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="630" as="sourcePoint" />
-            <mxPoint x="400" y="600" as="targetPoint" />
+        <mxCell id="lxMVfw37ABalmOMYEqL4-26" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Сбор нагрузок, действующие на козырек, их сочетания&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-28" target="lxMVfw37ABalmOMYEqL4-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-28" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Выбор и проверка сечений крепежных элементов&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;enumerateValue=7;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="170" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-30" target="lxMVfw37ABalmOMYEqL4-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-30" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Формирование аналитической модели&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;enumerateValue=8;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-32" target="lxMVfw37ABalmOMYEqL4-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="82.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="200" />
+              <mxPoint x="830" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-47" value="2 этап. Назначение вариантов конфигураций на основе деформированого состояния стекла-триплекс под действием распределенной нагрузки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="600" width="240" height="100" as="geometry" />
+        <mxCell id="lxMVfw37ABalmOMYEqL4-32" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;1. Проверка прочности фурнитуры на основе количества и расположения точечных креплений&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;2. Проверка прочности анкерных креплений&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;3. Уточнение стоимости предлагаемых вариантов&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;noLabel=0;fixDash=0;container=0;dropTarget=0;collapsible=0;treeFolding=0;treeMoving=0;enumerate=0;enumerateValue=1;comic=0;labelPadding=0;snapToPoint=0;dashed=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="830" y="137.5" width="180" height="142.5" as="geometry" />
         </mxCell>
-        <mxCell id="8c-bmwtY3mxcumIEPfAq-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="740" width="120" height="60" as="geometry" />
+        <mxCell id="lxMVfw37ABalmOMYEqL4-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-34" target="lxMVfw37ABalmOMYEqL4-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-34" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;line-height: 18px; font-size: 14px;&quot;&gt;Выбор программного обеспечения для расчета триплекса&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;enumerateValue=5;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="730" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-35" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Предварительный анализ стеклянного полотна&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;enumerateValue=6;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="390" y="842.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-37" target="lxMVfw37ABalmOMYEqL4-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-37" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;1. Предлагаемые схемы конфигурации стеклянного полотна&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;2. Краткое описание количественных и качественных показателей&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;3. Анализ предварительных конфигураций&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;noLabel=0;fixDash=0;container=0;dropTarget=0;collapsible=0;treeFolding=0;treeMoving=0;enumerate=0;enumerateValue=1;comic=0;labelPadding=0;snapToPoint=0;dashed=1;align=left;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="770" width="150" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-39" target="lxMVfw37ABalmOMYEqL4-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-39" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Реализация в программе для анализа данных&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;enumerateValue=9;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="450" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-41" target="lxMVfw37ABalmOMYEqL4-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-41" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Введение&amp;nbsp; оценочного критерия конфигураций&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;enumerateValue=10;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="590" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-42" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Выполнение расчета и анализ данных&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;enumerate=1;enumerateValue=11;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="730" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f5f5f5;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;" edge="1" parent="1" source="lxMVfw37ABalmOMYEqL4-44" target="lxMVfw37ABalmOMYEqL4-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lxMVfw37ABalmOMYEqL4-44" value="&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;1. Выполнение расчета в программном комплексе и заполнение и перевод результатов в аналитическую модель&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;2. Итоговый анализ полученных данных&lt;/span&gt;&lt;/div&gt;&lt;p class=&quot;MsoNormal&quot; style=&quot;margin-left: 72pt; text-indent: -18pt; font-size: 14px;&quot;&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;noLabel=0;fixDash=0;container=0;dropTarget=0;collapsible=0;treeFolding=0;treeMoving=0;enumerate=0;enumerateValue=1;comic=0;labelPadding=0;snapToPoint=0;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontFamily=Times New Roman;fontSize=14;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="830" y="691.25" width="180" height="137.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
